@@ -1,0 +1,19 @@
+{
+  "name": "react-atmo-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./build/main.js",
+    "dev": "backpack dev",
+    "build": "backpack build",
+    "postinstall": "backpack build"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "backpack-core": "^0.4.2",
+    "react": "16.0.0-alpha.5",
+    "react-atmo": "^1.0.1"
+  }
+}
