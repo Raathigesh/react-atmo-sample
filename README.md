@@ -5,7 +5,7 @@
 ## Getting Started
 
 * Clone this repo
-* `npm install`
-* `npm run dev`
+* `npm install` | `yarn install`
+* `npm run dev` | `yarn dev`
 * All set!
 
